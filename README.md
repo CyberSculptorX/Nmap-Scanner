@@ -30,10 +30,10 @@ Nmap Scanner GUI is a Python-based tool using Tkinter for an intuitive interface
 
 1. **Install Python** from [python.org](https://www.python.org/).
 2. **Install Nmap** from [nmap.org](https://nmap.org/download.html).
-3. **Locate Nmap:** Find the installation path (e.g., `C:\Program Files (x86)\Nmap\nmap.exe`).
+3. **Locate Nmap:** Find the installation path (e.g., ` C:// >> Program Files >> Nmap >> nmap.exe`).
 4. **Clone/Download the repository:**
    ```bash
-   git clone https://github.com/yourusername/Nmap-Scanner-GUI.git
+   git clone https://github.com/CyberSculptorX/Nmap-Scanner-GUI.git
 5. Update Nmap Path: Open main.py and update the Nmap path to match your system:
     python, copy the path from where your nmap.exe file is stored, usually its in C:// >> Program Files >> Nmap >> nmap.exe
 
